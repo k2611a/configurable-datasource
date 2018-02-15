@@ -1,0 +1,15 @@
+/.gradle
+/build/
+/out/
+/generated
+/.idea
+/.settings/
+/Eclipse
+/.classpath
+/.project
+/nbproject
+/*.iml
+/*.ipr
+/*.iws
+/*.ids
+/*.sh
